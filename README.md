@@ -82,5 +82,5 @@ The filtered dataset does not include a separate test set for evaluating model p
 ## Acknowledgements
 
 - [ISIC 2019 Challenge](https://drive.google.com/drive/folders/1TeIbfKU5SiThZA-qFCpfzZq6Lk1Uib3l?usp=sharing) for providing description of the challenge and the dataset.
-- The developers of DenseNet for their contributions to deep learning research.
+- The developers of DenseNet, ResNet50, VGG16, InceptionV3 for their contributions to deep learning research.
 - Bhattiprolu, S. (2023). python_for_microscopists. [GitHub](https://github.com/bnsreenu/python_for_microscopists/tree/master) for video tutorials to understand skin cancer classification.

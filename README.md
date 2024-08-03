@@ -20,24 +20,19 @@ Pretrained models are available in the [`trained_models`](https://drive.google.c
 This repository includes the following Jupyter notebooks:
 
 ### 1. Multiclass-Classification-Using-DenseNet121.ipynb
-- **Description**: Contains the code for data preprocessing, model training, and model evaluation using Keras and TensorFlow.
-- **Usage**: To train the model from scratch and evaluate its performance on the filtered ISIC 2019 dataset.
+To train the model from scratch and evaluate its performance on the filtered ISIC 2019 dataset.
 
 ### 2. Multiclass-Classification-Using-PyTorch.ipynb
-- **Description**: Contains the code for data preprocessing, model training, and model evaluation using PyTorch.
-- **Usage**: To train the model from scratch and evaluate its performance on the filtered ISIC 2019 dataset using PyTorch.
+To train the model from scratch and evaluate its performance on the filtered ISIC 2019 dataset using PyTorch.
 
 ### 3. Test_Model.ipynb
-- **Description**: Allows users to test the pretrained models on a provided test dataset.
-- **Usage**: To test the performance of the pretrained models using a separate test set.
+To test the performance of the pretrained models using a separate test set.
 
 ### 4. UMAP_Projection.ipynb
-- **Description**: Visualizes 2D projections of the model's features using UMAP.
-- **Usage**: To understand the feature space and visualize the clustering of different classes.
+To understand the feature space and visualize the clustering of different classes.
 
 ### 5. Train_Test_Val_Split.ipynb
-- **Description**: Splits the dataset into training, validation, and test sets.
-- **Usage**: To prepare the dataset for training and evaluation.
+To prepare the dataset for training and evaluation.
 
 ## Model Performance
 

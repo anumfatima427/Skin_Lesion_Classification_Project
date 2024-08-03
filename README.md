@@ -77,11 +77,10 @@ This repository includes the following Jupyter notebooks:
 
 ### Test, Train, and Validation Set
 
-You can download the test, train, and validation set from the following link:
-[Train, Test, Val Set](https://drive.google.com/drive/folders/1vM8rlLS-N9xQFQcSvaOiPvkd21rNItGY?usp=sharing)
+The filtered dataset does not include a separate test set for evaluating model performance. To address this, I have created a split with dedicated train, validation, and test sets. You can download these sets from the following link: [Train, Test, Val Set](https://drive.google.com/drive/folders/1vM8rlLS-N9xQFQcSvaOiPvkd21rNItGY?usp=sharing)
 
 ## Acknowledgements
 
-- ISIC 2019 Challenge for providing the dataset.
+- [ISIC 2019 Challenge](https://drive.google.com/drive/folders/1TeIbfKU5SiThZA-qFCpfzZq6Lk1Uib3l?usp=sharing) for providing description of the challenge and the dataset.
 - The developers of DenseNet for their contributions to deep learning research.
-- Bhattiprolu, S. (2023). python_for_microscopists. [GitHub](https://github.com/bnsreenu/python_for_microscopists/tree/master)
+- Bhattiprolu, S. (2023). python_for_microscopists. [GitHub](https://github.com/bnsreenu/python_for_microscopists/tree/master) for video tutorials to understand skin cancer classification.

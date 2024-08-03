@@ -1,6 +1,6 @@
 # Skin Lesion Classification using Deep Learning
 
-This repository contains the code and trained models for the classification of skin lesions, based on the filtered ISIC 2019 dataset.
+This repository contains the code for training deep learning using **tensorflow** and **pytorch** and trained models for the classification of skin lesions, based on the filtered ISIC 2019 dataset.
 
 ## Dataset
 

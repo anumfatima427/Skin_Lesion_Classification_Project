@@ -1,4 +1,4 @@
-# Skin Lesion Classification using DenseNet121
+# Skin Lesion Classification using Deep Learning
 
 This repository contains the code and trained models for the classification of skin lesions, based on the filtered ISIC 2019 dataset.
 

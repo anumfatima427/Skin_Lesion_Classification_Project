@@ -19,7 +19,7 @@ Pretrained models are available in the [`trained_models`](https://drive.google.c
 
 This repository includes the following Jupyter notebooks:
 
-### 1. Multiclass-Classification-Using-DenseNet121.ipynb
+### 1. Multiclass-Classification-Using-Tensorflow.ipynb
 To train the model from scratch and evaluate its performance on the filtered ISIC 2019 dataset.
 
 ### 2. Multiclass-Classification-Using-PyTorch.ipynb
@@ -63,7 +63,7 @@ To prepare the dataset for training and evaluation.
 ### Running the Notebooks
 
 1. **Train the Model**:
-    - Open `Multiclass-Classification-Using-DenseNet121.ipynb` and run all cells to preprocess the data, train the model, and evaluate its performance.
+    - Open `Multiclass-Classification-Using-Tensorflow.ipynb` or `Multiclass-Classification-Using-PyTorch.ipynb` and run all cells to preprocess the data, train the model, and evaluate its performance.
 
 2. **Test the Model**:
     - Open `Test_Model.ipynb` and run all cells to load a pretrained model and evaluate it on the test set.

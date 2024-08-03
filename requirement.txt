@@ -1,0 +1,10 @@
+tensorflow
+opencv-python
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+imbalanced-learn
+albumentations
+umap-learn

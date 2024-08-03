@@ -8,3 +8,8 @@ scikit-learn
 imbalanced-learn
 albumentations
 umap-learn
+torch
+torchvision
+tqdm
+
+
